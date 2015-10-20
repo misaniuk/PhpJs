@@ -1,5 +1,5 @@
 {
-  "name": "misaniuk/PhpJs",
+  "name": "misaniuk/phpjs",
   "description": "For Client As For Server",
   "keywords": ["php in js", "js alias", "yii2"],
   "type": "yii2-extension",
