@@ -4,6 +4,7 @@
   "keywords": ["php in js", "js alias", "yii2"],
   "type": "yii2-extension",
   "license": "BSD-3-Clause",
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Denis Misaniuk",
